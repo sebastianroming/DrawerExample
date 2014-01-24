@@ -27,3 +27,18 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+# Not used folders and files
+libs/
+res/drawable-hdpi/
+res/drawable-ldpi/
+res/drawable-mdpi/
+res/drawable-xhdpi/
+res/drawable-xxhdpi/
+res/values-sw600dp/
+res/values-sw720dp-land/
+res/values-v11/
+res/values-v14/
+ic_launcher-web.png
+proguard-project.txt
+project.properties
